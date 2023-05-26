@@ -4,6 +4,7 @@ Just copy the code, paste to a file, and save.
 
 # Use
 
+### solve.py
 Run the file. When you see the "> " prompt, write a line from the sudoku and hit enter.
 
 Continue until the prompt disappears.
