@@ -15,4 +15,6 @@ It will show you what it has solved so far.
 
 I am no pro at sudoku, so my program is not perfect. 😋
 
-(It can solve most sudokus though.)
+In my sudoku book, the puzzles are graded in stars.
+
+solve.py can solve most ⭐⭐⭐ ones, but 4 would leave it (and me) stumped.
