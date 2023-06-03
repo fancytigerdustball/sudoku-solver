@@ -17,4 +17,4 @@ I am no pro at sudoku, so my program is not perfect. 😋
 
 In my sudoku book, the puzzles are graded in stars.
 
-solve.py can solve most ⭐⭐⭐ ones, but 4 would leave it (and me) stumped.
+solve.py can solve most ⭐⭐⭐ ones, but 4 would leave it stumped.
